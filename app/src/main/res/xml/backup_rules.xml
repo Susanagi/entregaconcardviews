@@ -1,0 +1,6 @@
+<full-backup-content>
+    <!-- Especifica los recursos que deseas incluir en el respaldo completo (backup) aquí -->
+    <include domain="file" path="shared_prefs/" />
+    <include domain="database" path="my_database.db" />
+    <!-- Otros elementos para incluir recursos en el respaldo completo -->
+</full-backup-content>

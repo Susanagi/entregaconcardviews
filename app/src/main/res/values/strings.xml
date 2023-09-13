@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Conociendobetania</string>
+    <string name="resenahoteles">
+    Estas buscando una escapada tranquila y autentica en medio de hermosos paisajes naturales,
+        los hoteles en Betania, Antioquia, pueden ser una excelente opcion.  </string>
+    <string name="resenarestaurantes">
+        Los restaurantes en Betania son tipicamente pequeños establecimientos familiares, lo que contribuye a una atmosfera calida y acogedora,
+        lo que añade un toque pintoresco a la experiencia gastronomica.
+    </string>
+    <string name="resenasitios">
+        Betania en Antioquia ofrece una combinacion perfecta de naturaleza, cultura y hospitalidad. Sus cascadas, miradores,
+        arquitectura colonial y la oportunidad de conectarse con la gente local hacen que este destino sea un lugar especial y unico.
+    </string>
+    <string name="usuariologin">Usuario
+    </string>
+    <string name="passwordlogin">Contraseña
+    </string>
+    <string name="vermas">Conoce mas</string>
+    <string name="opcion1">Ingles</string>
+    <string name="opcion2">Español</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Sobre nosotros</string>
+    <string name="bienvenidohome">Bienvenido</string>
+    <string name="ingresarlog">Ingresar</string>
+    <string name="boton1home">Hoteles</string>
+    <string name="boton2home">Restaurantes</string>
+    <string name="boton3home">Sitios</string>
+    <string name="cliente">Cliente</string>
+    <string name="Betania">Betania</string>
+    <string name="descripcionacerca"> Soy Susana Giraldo,una apasionada productora audiovisual y comu-
+    nicadora con un enfoque especializado en fotogra-
+    fía y video. Mi amor por el arte visual se ha converti-
+    do en mi profesión, y a través de mi trabajo, aspiro a
+
+    contar historias cautivadoras y emocionantes que
+    genere recordación en la audiencia.
+
+</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Telefono">Telefono</string>
+
+</resources>

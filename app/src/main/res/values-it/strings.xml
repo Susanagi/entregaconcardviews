@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiandov2</string>
+
+    <string name="resenahoteles">
+ Se stai cercando una fuga tranquilla e autentica in mezzo a splendidi paesaggi naturali, gli hotel a Betania, Antioquia,
+       possono essere un ottima scelta.</string>
+    <string name="resenarestaurantes">
+        I ristoranti a Betania sono tipicamente piccoli locali familiari, il che contribuisce a un atmosfera calorosa e accogliente,
+        aggiungendo un tocco pittoresco all esperienza gastronomica.
+    </string>
+    <string name="resenasitios">
+       Betania in Antioquia offre una perfetta combinazione di natura, cultura e ospitalita. Le sue cascate, i punti panoramici,
+        l architettura coloniale e l opportunita di connettersi con la gente del posto rendono questa destinazione un luogo speciale e unico.
+    </string>
+    <string name="usuariologin">Utente
+    </string>
+    <string name="passwordlogin">Parola d ordine
+    </string>
+    <string name="vermas">Saperne di piu</string>
+    <string name="opcion1">Inglese</string>
+    <string name="opcion2">Spagnolo</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Su di noi</string>
+    <string name="bienvenidohome">Benvenuto</string>
+    <string name="ingresarlog">Cartello</string>
+    <string name="boton1home">Hoteles</string>
+    <string name="boton2home">Ristorant</string>
+    <string name="boton3home">Siti</string>
+    <string name="cliente">Cliente</string>
+    <string name="Betania">Betania</string>
+    <string name="descripcionacerca"> Je suis Susana Giraldo, productrice et communicatrice audiovisuelle passionnee.
+     nicator specialise dans la photographie
+     confiance et video Mon amour pour lart visuel est devenu
+     dans mon métier, et a travers mon travail, j aspire a
+
+     raconter des histoires captivantes et passionnantes qui
+     Creer une memoire dans le public.
+    </string>
+    <string name="Nombre">Nombre</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Telefono">Telefono</string>
+
+</resources>

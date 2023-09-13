@@ -1,0 +1,15 @@
+<data_extraction_rules>
+    <rule name="rule_1">
+        <source>data_source_1</source>
+        <destination>data_destination_1</destination>
+        <!-- Otros atributos y elementos aquí -->
+    </rule>
+
+    <rule name="rule_2">
+        <source>data_source_2</source>
+        <destination>data_destination_2</destination>
+        <!-- Otros atributos y elementos aquí -->
+    </rule>
+
+    <!-- Puedes agregar más reglas aquí según tus necesidades -->
+</data_extraction_rules>

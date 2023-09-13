@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mio"
+    tools:context=".AmpliandoRestaurante">
+
+    <TextView
+        android:id="@+id/tituloAmpliandoRestaurante"
+        android:layout_width="wrap_content"
+        android:layout_height="39dp"
+        android:text="BETANIA FOOD"
+        android:textAlignment="center"
+        android:textColor="#E7E690"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.449"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <ImageView
+        android:id="@+id/fotoAmpliandoRestaurante"
+        android:layout_width="244dp"
+        android:layout_height="229dp"
+        android:layout_marginHorizontal="100dp"
+        android:layout_marginBottom="428dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/resta"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.706"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tituloAmpliandoRestaurante"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/descripAmpliandoHotel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Bienvenidos al mejor sazón del pueblo, ofrecemos la mejor variedad en platos."
+        android:textAlignment="center"
+        android:textColor="#E7E690"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/fotoAmpliandoRestaurante"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imagen2AmpliandoHotel"
+        android:layout_width="253dp"
+        android:layout_height="192dp"
+        android:padding="4dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/restau"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.101"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/descripAmpliandoHotel"
+        app:layout_constraintVertical_bias="0.221" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

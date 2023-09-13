@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiandov2</string>
+    <string name="resenahoteles">
+ If you re looking for a peaceful and authentic getaway amidst beautiful natural landscapes,
+        the hotels in Betania, Antioquia, can be an excellent choice.</string>
+<string name="resenarestaurantes">
+       The restaurants in Betania are typically small family-run establishments, which contribute to a warm and welcoming atmosphere,
+    adding a picturesque touch to the dining experience.
+    </string>
+    <string name="resenasitios">
+       Betania in Antioquia offers a perfect combination of nature, culture, and hospitality. Its waterfalls, viewpoints, colonial architecture,
+        and the opportunity to connect with the local people make this destination a special and unique place.
+    </string>
+    <string name="usuariologin">User
+    </string>
+    <string name="passwordlogin">password
+    </string>
+    <string name="vermas">See more</string>
+    <string name="opcion1">English</string>
+    <string name="opcion2">Spanish</string>
+    <string name="opcion3">Italian</string>
+    <string name="opcion4">About us</string>
+    <string name="bienvenidohome">Welcome</string>
+    <string name="ingresarlog">get into</string>
+    <string name="boton1home">Hotels</string>
+    <string name="boton2home">Restaurants</string>
+    <string name="boton3home">Sites</string>
+    <string name="cliente">Customer</string>
+    <string name="Betania">Bethany</string>
+    <string name="descripcionacerca"> I am Susana Giraldo, a passionate audiovisual producer and communicator.
+     nicator with a specialized focus on photography
+     trust and video My love for visual art has become
+     in my profession, and through my work, I aspire to
+
+     tell captivating and exciting stories that
+     Create memory in the audience.
+
+    </string>
+    <string name="Nombre">Nombre</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Telefono">Telefono</string>
+</resources>
