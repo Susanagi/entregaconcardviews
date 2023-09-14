@@ -23,9 +23,9 @@ public class AmpliandoRestaurante extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ampliando_restaurante);
 
-        fotoAmpliandoRestaurante = findViewById(R.id.fotoAmpliandoHotel);
-        nombreAmpliandoRestaurante = findViewById(R.id.tituloAmpliandoHotel);
-        telefonoAmpliandoRestaurante = findViewById(R.id.telefonoAmpliandoHotel);
+        fotoAmpliandoRestaurante = findViewById(R.id.fotoAmpliandoRestaurante);
+        nombreAmpliandoRestaurante = findViewById(R.id.tituloAmpliandoRestaurante);
+        telefonoAmpliandoRestaurante = findViewById(R.id.telefonoAmpliandoRestaurante);
         valoracionRestauranteAmpliando = findViewById(R.id.valoracionAmpliandoHotel);
 
         moldeRestaurante = (MoldeHotel)getIntent().getSerializableExtra("datosresta");
@@ -33,7 +33,7 @@ public class AmpliandoRestaurante extends AppCompatActivity {
         fotoAmpliandoRestaurante.setImageResource(moldeRestaurante.getFoto());
         nombreAmpliandoRestaurante.setText(moldeRestaurante.getNombre());
         telefonoAmpliandoRestaurante.setText(moldeRestaurante.getContacto());
-        valoracionAmpliandoRestaurante.setRating(moldeRestaurante.getValoracion());
+        valoracionRestauranteAmpliando.setRating(moldeRestaurante.getValoracion());
     }
 
 

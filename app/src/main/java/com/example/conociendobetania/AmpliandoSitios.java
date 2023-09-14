@@ -24,7 +24,7 @@ public class Ampliandositios extends AppCompatActivity {
         setContentView(R.layout.activity_ampliando_sitios);
 
         fotoAmpliandoSitios = findViewById(R.id.fotolistamachupichusitios);
-        nombreAmpliandoSitios = findViewById(R.id.);
+        nombreAmpliandoSitios = findViewById(R.id.)nombrelistasitios;
         telefonoAmpliandoSitios = findViewById(R.id.telefonoAmpliandoSitios);
         valoracionAmpliandoSitios = findViewById(R.id.valo);
 
